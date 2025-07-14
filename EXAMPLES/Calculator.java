@@ -10,7 +10,7 @@ public class Calculator {
              
             System.out.print("Enter first number: ");
             int num1 = myObj.nextInt();
-            System.out.print("Enter first number: ");
+            System.out.print("Enter Second number: ");
             int num2 = myObj.nextInt();
             System.out.print("Enter Symbol(+, -, *, /, %): ");
             String symbol = myObj.next();
