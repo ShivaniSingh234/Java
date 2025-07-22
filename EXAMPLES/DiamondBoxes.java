@@ -39,7 +39,7 @@ static int FindBags(int a,int b,int c,int d)
             System.out.println("This case requires:" + output +" bags.");
 
             }
-            sc.close();
+        
 
 
 
