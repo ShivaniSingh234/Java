@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Laminates {
 
     static long possibilities(int n, int k) {
-        if (k > n)
-            return 0;
+       
         if (k == n)
             return 1;
 
