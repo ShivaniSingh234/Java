@@ -29,8 +29,6 @@ public class PrimeNumber {
                 int m = sc.nextInt();
                 int n = sc.nextInt();
 
-                boolean isPrime = true;
-
                 for (int i = m; i <= n; i++) {
                     if (isPrime(i)) {
                         System.out.println(i);
